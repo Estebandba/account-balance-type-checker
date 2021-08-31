@@ -1,0 +1,26 @@
+{
+  "name": "koodoo-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/b41e159dc70b7b473c60eb3ce55f39f6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/b41e159dc70b7b473c60eb3ce55f39f6"
+  },
+  "homepage": "https://gist.github.com/b41e159dc70b7b473c60eb3ce55f39f6",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
